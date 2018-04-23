@@ -1,0 +1,201 @@
+Producer waitting
+consumer waitting
+consumer waited
+Producer waited
+Thread-1: i produced an item 2
+Producer waitting
+Thread-2: i consumed an item 2
+consumer waitting
+Producer waited
+consumer waited
+Thread-1: i produced an item 3
+Producer waitting
+Producer waited
+Thread-2: i consumed an item 3
+consumer waitting
+consumer waited
+Thread-1: i produced an item 4
+Producer waitting
+Producer waited
+Thread-2: i consumed an item 4
+consumer waitting
+Thread-1: i produced an item 5
+Producer waitting
+consumer waited
+Producer waited
+Thread-2: i consumed an item 5
+consumer waitting
+consumer waited
+Thread-1: i produced an item 6
+Producer waitting
+Producer waited
+Thread-2: i consumed an item 6
+consumer waitting
+consumer waited
+Thread-1: i produced an item 7
+Producer waitting
+Producer waited
+Thread-2: i consumed an item 7
+consumer waitting
+consumer waited
+Thread-1: i produced an item 8
+Producer waitting
+Producer waited
+Thread-2: i consumed an item 8
+consumer waitting
+consumer waited
+Thread-1: i produced an item 9
+Producer waitting
+Producer waited
+Thread-2: i consumed an item 9
+consumer waitting
+consumer waited
+Thread-1: i produced an item 10
+Producer waitting
+Producer waited
+Thread-2: i consumed an item 10
+consumer waitting
+consumer waited
+Thread-1: i produced an item 11
+Producer waitting
+Producer waited
+Thread-2: i consumed an item 11
+consumer waitting
+consumer waited
+Thread-1: i produced an item 12
+Producer waitting
+Producer waited
+Thread-2: i consumed an item 12
+consumer waitting
+consumer waited
+Thread-1: i produced an item 13
+Producer waitting
+Producer waited
+Thread-2: i consumed an item 13
+consumer waitting
+consumer waited
+Thread-1: i produced an item 14
+Producer waitting
+Producer waited
+Thread-2: i consumed an item 14
+consumer waitting
+consumer waited
+Thread-1: i produced an item 15
+Producer waitting
+Producer waited
+Thread-2: i consumed an item 15
+consumer waitting
+consumer waited
+Thread-1: i produced an item 16
+Producer waitting
+Producer waited
+Thread-2: i consumed an item 16
+consumer waitting
+consumer waited
+Thread-1: i produced an item 17
+Producer waitting
+Producer waited
+Thread-2: i consumed an item 17
+consumer waitting
+consumer waited
+Thread-1: i produced an item 18
+Producer waitting
+Producer waited
+Thread-2: i consumed an item 18
+consumer waitting
+consumer waited
+Thread-1: i produced an item 19
+Producer waitting
+Producer waited
+Thread-2: i consumed an item 19
+consumer waitting
+Thread-1: i produced an item 20
+Producer waitting
+consumer waited
+Producer waited
+Thread-2: i consumed an item 20
+consumer waitting
+consumer waited
+Thread-1: i produced an item 21
+Producer waitting
+Producer waited
+Thread-2: i consumed an item 21
+consumer waitting
+consumer waited
+Thread-1: i produced an item 22
+Producer waitting
+Producer waited
+Thread-2: i consumed an item 22
+consumer waitting
+consumer waited
+Thread-1: i produced an item 23
+Producer waitting
+Producer waited
+Thread-2: i consumed an item 23
+consumer waitting
+consumer waited
+Thread-1: i produced an item 24
+Producer waitting
+Thread-2: i consumed an item 24
+consumer waitting
+Producer waited
+consumer waited
+Thread-1: i produced an item 25
+Producer waitting
+Producer waited
+Thread-2: i consumed an item 25
+consumer waitting
+consumer waited
+Thread-1: i produced an item 26
+Producer waitting
+Producer waited
+Thread-2: i consumed an item 26
+consumer waitting
+Thread-1: i produced an item 27
+Producer waitting
+consumer waited
+Producer waited
+Thread-2: i consumed an item 27
+consumer waitting
+consumer waited
+Thread-1: i produced an item 28
+Producer waitting
+Producer waited
+Thread-2: i consumed an item 28
+consumer waitting
+consumer waited
+Thread-1: i produced an item 29
+Producer waitting
+Producer waited
+Thread-2: i consumed an item 29
+consumer waitting
+consumer waited
+Thread-1: i produced an item 30
+Producer waitting
+Producer waited
+Thread-2: i consumed an item 30
+consumer waitting
+consumer waited
+Thread-1: i produced an item 31
+Producer waitting
+Producer waited
+Thread-2: i consumed an item 31
+consumer waitting
+consumer waited
+Thread-1: i produced an item 32
+Producer waitting
+Producer waited
+Thread-2: i consumed an item 32
+consumer waitting
+Thread-1: i produced an item 33
+Producer waitting
+consumer waited
+Producer waited
+Thread-2: i consumed an item 33
+consumer waitting
+consumer waited
+Thread-1: i produced an item 34
+Producer waitting
+Producer waited
+Thread-2: i consumed an item 34
+consumer waitting
